@@ -1,7 +1,6 @@
 # Little Lemon
 
-A Django website for Little Lemon, a fictional family-owned Mediterranean restaurant in Chicago. Built as a learning project while following the Meta Back-End Developer course on Coursera.
-
+A Django website for Little Lemon, a fictional family-owned Mediterranean restaurant in Chicago. Built as a learning project.
 ## Features
 
 - Home, About, Menu and Book pages sharing one base template with a header and navigation bar
